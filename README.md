@@ -1,53 +1,196 @@
-# 💫 About Me:
-🌱 I’m currently learning React.js, TypeScript, Next.js and Redux<br>👨‍💻 All of my projects are available at https://kadirula.netlify.app/
+# Hi, I'm Kadir 👋
 
+### Frontend Developer | JavaScript · TypeScript · React · Next.js
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kadir.ula) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kadir-ula) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kadirula17) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kadir_Ula_) 
+I'm a Frontend Developer with **5+ years of experience in web development** and professional experience building and maintaining production applications.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
-![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) 
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kadirula&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+My experience spans **e-commerce platforms, customer-facing applications, admin panels, business software, mobile applications, API integrations, and reusable UI systems**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kadirula&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+I primarily work with the **JavaScript ecosystem**, with a strong focus on React and modern frontend architecture.
+
+Currently, I'm going deeper into **TypeScript, Next.js, Node.js, React Native, application architecture, and AI-assisted software development**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kadirula&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+
+- Build production-ready web applications
+- Develop scalable and maintainable React interfaces
+- Build applications with Next.js and TypeScript
+- Integrate REST APIs and third-party services
+- Develop customer-facing mobile applications with React Native
+- Work on complex e-commerce workflows and business applications
+- Build and maintain reusable UI components
+- Improve existing production systems and modernize legacy code
+- Work with Docker, CI/CD and deployment workflows
+- Use AI-assisted development tools to improve development workflows
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Backend & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
+
+### Tools & Infrastructure
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+
+### AI-Assisted Development
+
+![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+
+- Claude Code
+- AI-assisted architecture and development
+- Agentic development workflows
+- AI-powered developer tooling
+
+---
+
+## 💼 Professional Experience
+
+I've worked on production systems across different domains, including:
+
+### 🛒 E-Commerce
+
+- Customer-facing e-commerce interfaces
+- Product, cart and order workflows
+- Administration panels
+- API integrations
+- Complex UI customization systems
+- Theme and component-based interfaces
+
+### 📱 Mobile Applications
+
+- Customer-facing mobile applications
+- React Native & Expo
+- API integration
+- Reusable mobile components
+- Production-oriented development workflows
+
+### 🖥️ Business Applications
+
+- Management and administration platforms
+- Data-heavy interfaces
+- Reusable UI components
+- Complex forms and tables
+- Business process-oriented applications
+
+### 🔌 API & System Integration
+
+- REST API integrations
+- Third-party service integrations
+- Frontend/backend data flows
+- Existing system modernization and maintenance
+
+---
+
+## 🧩 Selected Projects
+
+### Modern Business Platform
+
+A full-stack business platform focused on modern application architecture, reusable components and scalable product development.
+
+**Stack:** `Next.js` `TypeScript` `React` `Node.js` `PostgreSQL` `Prisma` `Docker`
+
+---
+
+### E-Commerce Platforms
+
+Professional experience working on e-commerce systems involving customer-facing applications, administration panels, product management, cart and order workflows, API integrations and complex UI customization.
+
+**Stack:** `React` `JavaScript` `REST APIs` `UI Components`
+
+---
+
+### Mobile Applications
+
+Customer-facing mobile applications developed with React Native and Expo, including API integrations and reusable application components.
+
+**Stack:** `React Native` `Expo` `TypeScript` `REST APIs`
+
+---
+
+## 🎯 Current Focus
+
+I'm currently focusing on becoming a stronger **product-oriented frontend engineer**.
+
+Areas I'm actively deepening:
+
+- TypeScript-first development
+- React & Next.js architecture
+- Scalable frontend patterns
+- Node.js and backend fundamentals
+- React Native application development
+- API and data-layer design
+- CI/CD and deployment
+- AI-assisted and agentic development
+
+I'm particularly interested in building:
+
+- SaaS products
+- E-commerce platforms
+- Business applications
+- Developer tools
+- AI-powered products
+
+---
+
+## 🧠 Engineering Mindset
+
+I believe good software development is not just about writing code.
+
+I care about:
+
+- Understanding the problem before implementing the solution
+- Designing maintainable systems
+- Keeping complexity under control
+- Building reusable components
+- Thinking about the product, not only the interface
+- Understanding how data flows through the application
+- Improving existing systems instead of rewriting everything unnecessarily
+
+> **Understand the problem → design the solution → build → measure → improve.**
+
+---
+
+## 📊 GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kadirula&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&layout=compact&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](kadir-ula)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kadirula)
+
+---
+
+<p align="center">
+  <i>Building products, solving problems, and continuously improving the craft.</i>
+</p>
