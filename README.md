@@ -175,17 +175,12 @@ I care about:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats:
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kadirula&show_icons=true&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&layout=compact&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
+  ![](https://github-readme-stats.vercel.app/api?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=kadirula&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ---
