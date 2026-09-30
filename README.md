@@ -176,12 +176,9 @@ I care about:
 ---
 
 ## 📊 GitHub Stats:
-
-<p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=kadirula&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kadirula&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
