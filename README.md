@@ -177,9 +177,15 @@ I care about:
 
 ## 📊 GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kadirula&show_icons=true&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&layout=compact&hide_border=true" height="165" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kadirula&show_icons=true&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirula&layout=compact&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
 </p>
 
 ---
